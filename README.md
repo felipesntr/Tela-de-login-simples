@@ -1,12 +1,12 @@
 # Tela de login simples com tema escuro e responsivo.
-### Para desenvolver essa pagina, foi utilizado skeleton css e normalize css.
-### Icones obtidos em https://worldvectorlogo.com/pt/termos-de-uso
+#### Para desenvolver essa página, foi utilizado skeleton css e normalize css.
+#### Ícones obtidos em https://worldvectorlogo.com/pt/termos-de-uso
 
 
 # Tela completa
 ![Tela completa](prints/completa.png)
 #
-# Tela minima
+# Tela mínima
 ![Tela completa](prints/min.png)
 
 
