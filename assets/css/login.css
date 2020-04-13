@@ -63,9 +63,13 @@ a{
 	color: #fff;
 
 	cursor: pointer;
+
+	transition: 0.2s
 }
-.login-container input[type="submit"]:focus{
+.login-container input[type="submit"]:hover{
 	background-color: #004d40;
+
+	transition: 0.2s
 }
 
 .login-externo-google{
@@ -86,6 +90,8 @@ a{
 	border-color: transparent;
 	color:#fff;
 	opacity: 80%;
+
+	transition: 0.2s
 }
 .login-externo-facebook{
 	width: 100%;
@@ -134,6 +140,11 @@ a{
 }
 .forgot-password a{
 	color: grey;
+}
+.forgot-password a:hover{
+	color: #3f5bd8;
+
+	transition: 0.3s;
 }
 @media(max-width: 610px){
 	.external-login{
